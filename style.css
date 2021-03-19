@@ -1,0 +1,69 @@
+html{
+    font-family: 'Bree Serif', serif;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/334/944/50/anime-attack-on-titan-eren-yeager-reiner-braun-wallpaper-preview.jpg);
+    background-size: 100%;
+}
+
+img{
+    width: 400px;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.308);
+    color: white;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.308);
+    color: white;
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+a {
+    color:white;
+    font-size: 20px;
+    
+    
+  }
+a :hover{
+    color: black;
+}
+.texto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+.texto.uno{
+    padding-top: 50px;
+}
+.asies{
+    display: flex;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.308);
+    color: white;
+}
+.horario{
+    margin-left: 62px;
+}
+.tres{
+    margin-left: 92px;
+}
+.cuatro{
+    margin-left: 100px;
+}
+.cinco{
+    margin-left: 120px;
+}
+.seis{
+    margin-left:84px;
+}
